@@ -1,6 +1,8 @@
-# Hola, me llamo LuisClon 👋
-### Freelance desarrollador Web y de aplicaciones Android
-
-Soy desarrollador web y freelancer en desarrollo desde hace menos de 1 año.
-### Nominame como Star
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+### **Hi, I'm _LuisClon_ ![Personal Image](https://forum.in-ku.com/images/smilies/8/Hyron_03.gif)**
+Freelancer and _Web Developer_
+<p>If not, please check my <a href="https://github.com/Luisill4036W?tab=repositories">repositories</a> and review me for improving those.</p>
+<ul>
+  <li><a href="https://coarcusco.netlify.app/">COAR</a> A Web about physical Education in the school COAR</li>
+  <li><a href="https://coarcusco.netlify.app/">COAR</a> A Web about physical Education in the school COAR</li>
+  <li><a href="https://coarcusco.netlify.app/">COAR</a> A Web about physical Education in the school COAR</li> 
+</ul>
